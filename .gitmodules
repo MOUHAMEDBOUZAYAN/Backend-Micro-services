@@ -1,3 +1,6 @@
 [submodule "Server"]
 	path = Server
 	url = https://github.com/MOUHAMEDBOUZAYAN/Microservices-Auth-Service-API-Gateway-s-curis-e-avec-JWT.git
+[submodule "Microservice-de-gestion-de-comp-tences"]
+	path = Microservice-de-gestion-de-comp-tences
+	url = https://github.com/MOUHAMEDBOUZAYAN/Microservice-de-gestion-de-comp-tences.git
