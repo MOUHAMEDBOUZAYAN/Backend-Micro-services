@@ -1,4 +1,0 @@
-git commit -am "Add Server microservice as submodule"
-[submodule "Server"]
-	path = Server
-	url = https://github.com/MOUHAMEDBOUZAYAN/Microservices-Auth-Service-API-Gateway-s-curis-e-avec-JWT.git
