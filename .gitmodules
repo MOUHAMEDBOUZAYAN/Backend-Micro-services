@@ -4,3 +4,6 @@
 [submodule "services/Auth-Micro"]
 	path = services/Auth-Micro
 	url = https://github.com/MOUHAMEDBOUZAYAN/Microservices-Auth-Service-API-Gateway-s-curis-e-avec-JWT.git
+[submodule "services/Breif-Micro"]
+	path = services/Breif-Micro
+	url = https://github.com/MOUHAMEDBOUZAYAN/Application-de-gestion-des-competences-Partie-2-.git
